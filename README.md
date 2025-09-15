@@ -14,6 +14,7 @@ I use it to store code, notebooks, and small projects while learning.
 ## 💡 Purpose
 I created this repo to track my learning progress and share it publicly.  
 Anyone can view or use the code for reference.
+
 📬 **Contact**
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - Email: your_email@example.com
